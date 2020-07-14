@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodaysGames/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TodaysGames/static/js/main.0bbdaa2d.chunk.js",
+    "main.js.map": "/TodaysGames/static/js/main.0bbdaa2d.chunk.js.map",
+    "runtime-main.js": "/TodaysGames/static/js/runtime-main.bdfcf9a1.js",
+    "runtime-main.js.map": "/TodaysGames/static/js/runtime-main.bdfcf9a1.js.map",
+    "static/js/2.adb32f60.chunk.js": "/TodaysGames/static/js/2.adb32f60.chunk.js",
+    "static/js/2.adb32f60.chunk.js.map": "/TodaysGames/static/js/2.adb32f60.chunk.js.map",
+    "index.html": "/TodaysGames/index.html",
+    "precache-manifest.7929d2b97e62b5f2a2ce75ae3b4f5b7e.js": "/TodaysGames/precache-manifest.7929d2b97e62b5f2a2ce75ae3b4f5b7e.js",
+    "service-worker.js": "/TodaysGames/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TodaysGames/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.adb32f60.chunk.js.LICENSE.txt": "/TodaysGames/static/js/2.adb32f60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdfcf9a1.js",
+    "static/js/2.adb32f60.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0bbdaa2d.chunk.js"
+  ]
+}
